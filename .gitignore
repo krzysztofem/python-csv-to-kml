@@ -1,3 +1,6 @@
+_generated-maps
+_source-for-map
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
