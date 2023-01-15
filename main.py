@@ -39,7 +39,7 @@ DOC_PERIOD_6 = kml.newdocument(name='Znaleziska %s w.' % PERIOD_6)
 # def getDescription(founder, period):
 #     return '%s<br/>datowanie: %s' % (founder ,period)
 
-print(_config.truck['color']) 
+# print(_config.truck['color']) 
 
 def createNewpoint(period):
     if period == PERIOD_1:
@@ -69,15 +69,71 @@ def getIcon(period):
     else: 
         return ICON_GREY
 
+
+periods = [ 
+    { 
+        'key' : 'do V',
+        'iconColor' : 'red' 
+    },
+    { 
+        'key' : 'VI-XIII',
+        'iconColor' : 'pink' 
+    },
+    { 
+        'key' : 'XIV-XVI',
+        'iconColor' : 'pink' 
+    },
+    { 
+        'key' : 'XVII-1750',
+        'iconColor' : 'pink' 
+    },
+    { 
+        'key' : '1750-XIX',
+        'iconColor' : 'pink' 
+    },
+    { 
+        'key' : 'XX',
+        'iconColor' : 'pink' 
+    }               
+]
+
+class Point:
+    kml = None
+    periods = dict()
+    KMLdocumentCollection = dict()
+    
+    def __init__(self, kml, periods):
+        self.kml = kml
+        self.periods = periods
+        self.updatePeriodsWithDoc()
+
+    def updatePeriodsWithDoc(self):
+        for point in self.periods:
+            point['KMLdoc'] = self.kml.newdocument(name='Znaleziska %s w.' % point['key'])
+
+    def createNewpoint(self, period):
+        for point in self.periods:
+            if (point['key'] == period):
+                return point['KMLdoc'].newpoint()
+
+    def getIcon(self):
+        print("(%s,%s)" % (self.x, self.y))
+
+point = Point(kml, periods)
+point.createNewpoint('XX')
+# p.addKMLdocumetnToPeriod()
+# print(_config.truck['color']) 
+# p.pozycja()
+
 with file:
     reader = csv.DictReader(file)
     
     for row in reader:
-        pnt = createNewpoint(row['Okres'])
+        pnt = point.createNewpoint(row['Okres'])
         pnt.name = '%s - %s' % (row['Numer'],row['Id znaleziska'])
         pnt.description = getDescription(row['Znalazca'], row['Okres'])
         pnt.coords=[(row['GPS E'],row['GPS N'])]        
-        pnt.style.iconstyle.icon.href = getIcon(row['Okres'])
+        # pnt.style.iconstyle.icon.href = getIcon(row['Okres'])
 
 dateTime = datetime.now().strftime("%Y_%m_%d-%I_%M_%S")
 kml.save('_generated-maps/%s-map.kml' % dateTime )
