@@ -80,7 +80,7 @@ xml_pretty_str = xml.toprettyxml()
 # save kml document to file
 dateTime = datetime.now().strftime("%Y_%m_%d-%I_%M_%S")
 
-fileName = 'kml-map-%s.kml' % dateTime
+fileName = '_generated-maps/kml-map-%s.kml' % dateTime
 with open(fileName, "w", encoding = 'utf-8') as file:    
     file.write(str(xml_pretty_str))
 
