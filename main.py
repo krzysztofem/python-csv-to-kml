@@ -1,10 +1,25 @@
+import sys
 from bs4 import BeautifulSoup as Soup
+from rich.console import Console
+from rich.theme import Theme
 from modules.getKMLstyle import getKMLstyleList
 from modules.createPlacemark import createPlacemark
 import xml.dom.minidom
 import pandas as pd
 from datetime import datetime
 from config import PERIODS as CONFIG
+
+
+
+fileSource = sys.argv[1]
+
+customConsoleTheme = Theme({"sucess": "green"})
+console = Console(theme=customConsoleTheme)
+console.print('')
+console.print(" ***************************** ")
+console.print("        🧭 CSV to KML 📌        ")
+console.print(" ***************************** ")
+console.print('')
 
 fileCSV = open('_source-for-map/znaleziska.csv', 'r')
 
@@ -23,7 +38,15 @@ for k,v in CONFIG.items():
         document.append(Soup(el, 'xml'))
 
 
-data = pd.read_csv("_source-for-map/znaleziska.csv")
+data = pd.read_csv(fileSource)
+console.print('💾 Loading data from  [bold magenta]%s[/bold magenta]' % fileSource)
+# data = pd.read_csv("_source-for-map/znaleziska.csv")
+# dataRowsLength = data.shape[0]
+
+
+console.print('')
+console.print('⚙️  Processing data ... ')
+console.print('')
 
 for key,value in CONFIG.items():
     # create google maps <Folder>
@@ -33,6 +56,8 @@ for key,value in CONFIG.items():
 
     # filter by period and iterate by period items
     df2 = data[data['Okres']==key]
+    # console.print(key, len(df2))
+    console.print('📌 [magenta]%s[/magenta] => [bold]%s[/bold]' % (key, len(df2)))
     for index, row in df2.iterrows():
         config = CONFIG.get(row['Okres'])
         newPlacemark = Soup(createPlacemark(
@@ -55,6 +80,10 @@ xml_pretty_str = xml.toprettyxml()
 # save kml document to file
 dateTime = datetime.now().strftime("%Y_%m_%d-%I_%M_%S")
 
-with open('_generated-maps/%s-map.kml' % dateTime , "w", encoding = 'utf-8') as file:    
+fileName = 'kml-map-%s.kml' % dateTime
+with open(fileName, "w", encoding = 'utf-8') as file:    
     file.write(str(xml_pretty_str))
-print('map ready')    
+
+console.print('')
+console.print('💾 Done! 💪 Saved to =>  [bold magenta]%s[/bold magenta]' % fileName)
+console.print('')
