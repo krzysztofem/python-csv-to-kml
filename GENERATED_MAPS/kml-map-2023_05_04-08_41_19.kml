@@ -1,0 +1,2827 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="iconRed">
+			<IconStyle>
+				 
+				<Icon>
+					 
+					<href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+					 
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="iconGreen">
+			<IconStyle>
+				 
+				<Icon>
+					 
+					<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+					 
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="iconBlue">
+			<IconStyle>
+				 
+				<Icon>
+					 
+					<href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
+					 
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="iconYellow">
+			<IconStyle>
+				 
+				<Icon>
+					 
+					<href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href>
+					 
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="iconBrown">
+			<IconStyle>
+				 
+				<Icon>
+					 
+					<href>https://maps.google.com/mapfiles/ms/micons/orange-dot.png</href>
+					 
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id="iconGrey">
+			<IconStyle>
+				 
+				<Icon>
+					 
+					<href>https://maps.google.com/mapfiles/ms/micons/ltblue-dot.png</href>
+					 
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder>
+			<name>do V</name>
+			<Placemark>
+				<name>43 - Stopiony Brąz</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.83971,53.072606</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>82 - Denar Rzymski Antonius Pius</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.839367,53.07244</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>110 - Fibula żelazna?</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.814718,53.068668</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>124 - Agrafka ozdobna wpływ rzymski</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.814508,53.068263</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>125 - Szpilka brąz </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.814018,53.06841</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>264 - Denar Rzymski Antoniusa Piusa 150-160 r. n.e.</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.81527,53.06918</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>274 - Denar Rzymski Faustyna Młodsza </name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.814403,53.069136</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>331 - Fibula okres wpływów Rzymskich </name>
+				<description>Stanisław Miętkiewicz  &lt;br/&gt;datowanie: do V</description>
+				<styleUrl>#iconRed</styleUrl>
+				<Point>
+					<coordinates>18.81446,53.06907</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>VI-XIII</name>
+			<Placemark>
+				<name>45 - Plomba gmerkowa </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: VI-XIII</description>
+				<styleUrl>#iconGreen</styleUrl>
+				<Point>
+					<coordinates>18.840571,53.073048</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>XIV-XVI</name>
+			<Placemark>
+				<name>28 - Szeląg krzyżacki Michał Kuchmeister 1414-1422</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.82617,53.0721</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>37 - Ułamek podkowy Średniowiecze </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.83994,53.07246</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>51 - Grot? </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.84103,53.07277</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>84 - Szeląg Gdański 1440-1490</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81461,53.06978</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>92 - Szeląg krzyżacki Michał Kuchmeistera 1414-1422 </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.814391,53.068317</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>117 - Półgrosz Jan I Olbracht 1492-1501</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.8145,53.06858</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>118 - Półgrosz Aleksander Jagiellończyka 1501-1506</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.814237,53.068571</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>123 - Sprzaczka od sakwy 1250-1400</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.814145,53.068168</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>133 - Guzik kontuszowy XVIw?</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81405,53.06839</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>141 - Półgrosz Zygmunt Stary 1508r</name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.813557,53.06861</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>154 - Guzik cywilny </name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.814306,53.068424</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>166 - Token Żeton Średniowiecze </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.813232,53.068976</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>169 - Szeląg Toruński Zygmunt Stary 1531</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81388,53.06883</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>171 - Grot tulejowy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81431,53.06828</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>179 - Denar Toruń Zygmunt Stary </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81368,53.06893</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>185 - Kawałek podkowy Średniowiecze </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81331,53.069421</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>194 - ?</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81358,53.06898</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>246 - Plomba Średniowiecze </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.813496,53.069047</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>253 - Szeląg Gdański Zygmunt Stary 1531 </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81355,53.06876</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>287 - Klamra Średniowiecze </name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81485,53.06869</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>288 - Klamra Średniowiecze </name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.81546,53.06913</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>296 - Moneta Denar Jagielloński </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.813851,53.0691</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>333 - Zabawka bączek ołowiany </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XIV-XVI</description>
+				<styleUrl>#iconBlue</styleUrl>
+				<Point>
+					<coordinates>18.814471,53.068443</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>XVII-1750</name>
+			<Placemark>
+				<name>2 - Złamany krzyżyk na XVIII wiek</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.841011,53.073766</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4 - Szeląg Jana Kazimierza Litewska Pogoń</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.83918,53.07336</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16 - Guzik arsenowy</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.84031,53.07314</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20 - Klamra</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.84188,53.07802</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>22 - guziki arsenowe</name>
+				<description>Kowalski Slawomir &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.830164,53.072635</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>24 - Klamra</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.82862,53.07566</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>27 - Obrączka</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.84074,53.07537</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>29 - Liczman Ludwik XV 1705-1743</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.82565,53.07236</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>31 - Guzik cywilny XVIII/XIXw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.82998,53.07167</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>32 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.829,53.07124</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>41 - Guzik Arsenowy</name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.840027,53.073055</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>44 - Szeląg Jana Kazimierza Boratynka</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.840935,53.072809</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>50 - Klamra</name>
+				<description>Sławomir Kowalski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.839309,53.072893</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>54 - Grosz August III Sas</name>
+				<description>Mirosława Miętkiewicz &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.83523,53.07752</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>56 - Grosz i Solid August III Sas </name>
+				<description>Mikołaj Walerych  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.83529,53.077491</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>71 - Szeląg koronny Jana Kazimierza</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.82622,53.07202</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>73 - Szeląg Jana Kazimierza Pogoń Litewski</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.84016,53.07802</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>80 - Szeląg Toruński August III Sas </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.840851,53.073147</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>83 - Element klamry</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814881,53.069032</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>87 - Solid Pruski </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81437,53.069666</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>88 - Szeląg Jana Kazimierza Koronny</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814029,53.069661</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>89 - Szeląg Jana Kazimierza Pogoń Litewski</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814669,53.069678</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>90 - Klamra</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814246,53.068384</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>91 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Sławomir Kowalski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.839748,53.072957</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>93 - 1 kreuzer XVIIIw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81486,53.06966</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>94 - Grosz August III Sas </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81428,53.06847</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>99 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814468,53.069725</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>100 - Solid Ryski </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814566,53.069734</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>101 - Solid Ryski</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813965,53.069665</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>102 - Szeląg Jana Kazimierza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814285,53.068552</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>103 - Okucie pasa</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814405,53.068188</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>104 - 2 monety solidy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814455,53.068698</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>106 - Element Łyżki Sygnowana XVII/XVIII</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814427,53.068426</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>108 - Grosz SAR August III Sas 1769</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814136,53.068444</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>112 - 2 monety Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813858,53.068415</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>115 - Szeląg Ryski Zygmunt III Waza</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81354,53.06875</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>122 - Szelag JAN II Kazimierz Dolny herb Pogoń </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814988,53.068659</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>128 - mosiężne zakonczenie nożyka XVII/XVIIIw</name>
+				<description>Mirosława Zagłoba-Miętkiewicz  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813773,53.068425</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>130 - Okucie </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814335,53.068461</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>132 - Nabijka</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81346,53.068845</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>135 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814164,53.068458</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>136 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814398,53.068501</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>137 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814202,53.068364</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>138 - Szeląg Jana Kazimierza Koronny 1664</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814645,53.068654</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>139 - Solid Toruński August III Sas 1763</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814198,53.068849</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>143 - Plomba</name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81353,53.068918</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>144 - Plomba </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813674,53.068991</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>145 - Plomba </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814342,53.068592</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>148 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813632,53.068973</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>149 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813478,53.068946</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>155 - Pierścionek </name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814576,53.068706</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>156 - Guzik cywilny Arsenowy</name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814489,53.068415</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>160 - Plomba</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813918,53.068366</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>161 - Klamra</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81543,53.069286</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>164 - Szeląg Toruński Michał Korybut Wiśniewski </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813548,53.06881</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>165 - Denar Zygmunt III Waza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813288,53.068942</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>168 - Liczman Ludwika XV Francja </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81377,53.06888</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>170 - Szeląg Pruski 1626</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81353,53.06884</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>172 - Dzwonek Janczarek </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814258,53.068337</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>173 - Guzik cywilny Arsenowy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814495,53.068497</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>175 - Solid </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813608,53.068926</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>176 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813424,53.069017</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>177 - Szeląg Jana Kazimierza Koronny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814489,53.068715</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>178 - 1 kreuzer Leopold 1695</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81366,53.06878</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>180 - Szeląg Zygmunt III Waza Olkusz</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81465,53.06855</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>181 - Szeląg Zygmunt III Waza 1622</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81426,53.069635</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>184 - Falsyfikat Półtorak Zygmunt III Waza </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81451,53.06911</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>186 - 1 grosz Prusy 1778</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81421,53.0696</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>192 - Plomba </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813436,53.069296</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>193 - Plomba </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813492,53.069101</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>195 - Szeląg Jana Kazimierza </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81361,53.06892</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>196 - Szeląg Jana Kazimierza Litewski Pogoń </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81356,53.06902</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>200 - Szeląg Jana Kazimierza 3 szt</name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813601,53.069012</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>201 - Szeląg Jana Kazimierza </name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814474,53.068299</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>204 - Plomba </name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.815095,53.068738</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>208 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813822,53.069663</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>212 - Sztylecik ?</name>
+				<description>Mirosława Zagłoba-Miętkiewicz  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813338,53.069378</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>214 - Szeląg Gdański Jan Kazimierza 1667r </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81455,53.0697</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>224 - Szeląg Jana Kazimierza </name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81469,53.06877</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>225 - Szeląg Jana Kazimierza </name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81479,53.06886</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>228 - Połówka 3 krajcary</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81455,53.0692</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>230 - Szeląg Jana Kazimierza </name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81482,53.06929</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>233 - Guzik kontuszowy </name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81483,53.06951</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>248 - Plomba</name>
+				<description>Mirosława Zagłoba-Miętkiewicz  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814441,53.069724</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>254 - Szeląg Jana Kazimierza Koronny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81439,53.06869</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>255 - Solid August III Sas </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81452,53.06857</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>256 - Solid Ryski Krystyna Waza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81397,53.06854</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>257 - Szeląg Jana Kazimierza Koronny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81373,53.06919</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>259 - Plomba</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81432,53.06888</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>262 - Szeląg Jana Kazimierza </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.846331,53.074305</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>271 - Solid Pruski 1669r</name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.8141,53.06881</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>272 - Szeląg Jana Kazimierza Litewski </name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81413,53.068802</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>273 - Szeląg Koronny Zygmunt III Waza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.8141,53.06845</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>276 - Szeląg Jana Kazimierza?</name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814252,53.068771</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>277 - Szeląg Jana Kazimierza Litewski </name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.819293,53.068835</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>278 - Szeląg Jana Kazimierza </name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814589,53.06892</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>281 - 1 Kreuzer 1704r.</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81453,53.06915</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>284 - Solid Ryski Krystyna Waza </name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814551,53.068938</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>285 - Szeląg Koronny Jana Kazimierza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814538,53.068839</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>295 - Moneta </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814576,53.068909</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>306 - Moneta </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81468,53.06862</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>308 - Plomba na naczyniu </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814929,53.068933</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>310 - Szóstak Jan III Sobieski </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81343,53.06893</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>312 - Szeląg Jana Kazimierza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81435,53.06838</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>313 - Szeląg Jana Kazimierza Litewski </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813613,53.068867</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>314 - Szeląg Jana Kazimierza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813727,53.069063</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>315 - Szeląg Jana Kazimierza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813926,53.069033</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>322 - 3 Kreuzery Leopold I Czechy 1698r.</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81423,53.06846</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>323 - Guzik Kontuszowy/ Żupanowy XVIIIw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81348,53.06866</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>324 - Guzik </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813827,53.068892</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>325 - Szeląg Jana Kazimierza Koronny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814227,53.068407</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>326 - Nabijka zakończonia rączki nożyka </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814136,53.068341</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>328 - Zapięcie klamry </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.813763,53.068796</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>330 - 3 Grosze 1716r. Maximilian II</name>
+				<description>Stanisław Miętkiewicz  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81447,53.06858</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>332 - 3 Monety Szeląg Jana Kazimierza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814342,53.068382</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>334 - Ogryzek Monety Półtorak Wazy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81402,53.06842</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>337 - 3 Kreuzery Leopold 1699r. Węgry </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81453,53.06914</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>338 - Szeląg Zygmunt III Waza </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.81461,53.0692</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>339 - Szeląg Prusy Książęce XVIIw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814126,53.068367</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>341 - Okucie końca nożyka</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814082,53.068334</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>342 - Guzik</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XVII-1750</description>
+				<styleUrl>#iconYellow</styleUrl>
+				<Point>
+					<coordinates>18.814749,53.069104</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>1750-XIX</name>
+			<Placemark>
+				<name>6 - Ołowiany żołnierzyk</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.839544,53.073908</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>7 - Guzik cywilny XIXw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84122,53.07436</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8 - Guzik cywilny</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83911,53.07446</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>9 - Plomba pruska</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83993,53.07473</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>11 - Plomba Pruska </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84075,53.07461</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>12 - Moneta 5 groszy 1812</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84345,53.07469</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>13 - Guzik łowiecki/myśliwski</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84297,53.07463</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>23 - Miarka do czarnego prochu XIXw </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83025,53.07641</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>26 - Trojak Fryderyk Wilhelm XVIIIw</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.826579,53.07172</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>34 - 3 kreuzery 1780 i 1/24 talara 1782</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83305,53.07707</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>39 - Guzik Pruski urzędniczy XIXw </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84014,53.07333</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>40 - 2 pociski Minie XIXw </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.840663,53.07308</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>52 - 1 grosz Polski z miedzi krajowej 1824</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83813,53.0779</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>53 - Solid Pruski Fryderyk Wilhelm </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83471,53.07739</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>58 - 10 groszy 1840</name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.838172,53.077823</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>59 - 2 pociski minie XIXw</name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.839581,53.072727</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>60 - Plomba Pruska</name>
+				<description>Jacek Romaniuk  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.840134,53.072925</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>61 - Pruski guzik urzędniczy XIXw</name>
+				<description>Jacek Romaniuk  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.840409,53.072944</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>62 - Plomba </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84129,53.073537</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>63 - 2 guziki cywilne</name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.841376,53.07308</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>64 - Guzik cywilny </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.841137,53.073232</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>65 - Kulka muszkietowa</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83774,53.07721</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>68 - Guzik zdobiony XIX w. ?</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83542,53.07739</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>70 - Moneta Francja XIX w. ?</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.8272,53.07103</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>74 - 10 groszy 1840</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84081,53.07809</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>75 - 1 pfening 1837</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.84261,53.07832</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>78 - Solid Pruski Fryderyk Wilhelm </name>
+				<description>Kamil Krajewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83488,53.07734</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>79 - Guzik cywilny </name>
+				<description>Kamil Krajewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.836952,53.077699</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>81 - ½ Kopiejki 1869r</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.839417,53.072549</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>85 - Grosz Fryderyk Wilhelm 1776</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81417,53.06842</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>86 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814124,53.068418</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>95 - 1 Grosz polski XIXw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814199,53.069631</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>96 - Naparstek Mosiądz/Brąz</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814185,53.068352</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>97 - odważnik</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814114,53.068737</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>98 - ½ Silber Grosza</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814099,53.069629</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>105 - Plomba Pruska</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813892,53.069581</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>111 - Obrączka </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813241,53.069047</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>113 - Szeląg Pruski XVIIIw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814249,53.06843</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>114 - Trojak Fryderyk Wilhelm 1785?</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81432,53.06869</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>116 - ⅙ Talara Prusy Fryderyka Wilhelm 1816r</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81435,53.06865</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>119 - Guzik 18-19w zdobiony manufaktura</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815385,53.068903</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>121 - Pokrywką fajki 19-20w.</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815491,53.069238</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>127 - Nabijka Heraldyczna orzeł z tarczą herbową </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81358,53.06864</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>140 - Solid Pruski 1755</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81471,53.06857</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>142 - Pocisk ołowiany minie </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813316,53.069058</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>146 - Guzik cywilny </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814236,53.068345</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>147 - Guzik cywilny </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814396,53.068552</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>150 - Guzik cywilny </name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81382,53.068844</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>151 - Guzik cywilny </name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814618,53.069661</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>152 - Guzik cywilny </name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814103,53.069658</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>157 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813539,53.068959</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>158 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815258,53.06917</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>159 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815282,53.069027</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>167 - Grosz Stanisław August Poniatowski 1791</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81432,53.06824</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>182 - 1 Grosz </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814337,53.069709</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>183 - Kopiejka</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814221,53.069657</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>187 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814251,53.069722</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>188 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814576,53.069705</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>189 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814217,53.069707</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>190 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813796,53.069637</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>191 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814279,53.069747</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>197 - ½ Grosza Prusy 1796r.</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81404,53.06968</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>202 - Guzik cywilny </name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814877,53.068566</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>203 - Guzik cywilny </name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815095,53.068738</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>206 - Wpinka podkowa</name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815476,53.069058</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>207 - Nabój ołowiany XIXw</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813822,53.069663</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>211 - Guzik Herbowy Lilia </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813423,53.06928</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>213 - Uchwyt, Zaczep </name>
+				<description>Mirosława Zagłoba-Miętkiewicz  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81345,53.069199</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>216 - 1 Pfening 1821</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81571,53.06916</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>217 - Guzik gładki, cywilny XIX w</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.8403,53.07259</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>219 - Breneka</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.8412,53.07293</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>220 - Guzik pruski, gładki XIX</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83934,53.07314</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>221 - Solid, Stanisław August Poniatowski</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81491,53.06955</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>223 - August III Sas, Szeląg 1761 Toruń</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.8145,53.06967</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>226 - Guzik płaski, cywilny XIXw</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81537,53.06923</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>231 - 1 silber groschen 1823</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81468,53.0692</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>232 - Guzik pruski, urzędniczy, pozłacany</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81467,53.06956</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>235 - Guzik cywilny dmuchany</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814708,53.069299</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>236 - Guzik mundurowy pruski </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814961,53.069277</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>238 - Solid August III Thorun w 1763</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814642,53.069777</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>239 - Solid August III Thorun 1762</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815162,53.068785</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>240 - Guzik Napoleoński koszulowy </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815402,53.069043</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>247 - 1 pfening 1828</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813852,53.069087</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>249 - Element dzwonka </name>
+				<description>Mirosława Zagłoba-Miętkiewicz  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814164,53.069717</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>258 - Uchwyt/Mocowanie </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.8137,53.06916</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>260 - 1 pfening 1836</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813848,53.069017</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>261 - 1 pfening 1828</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814001,53.069047</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>263 - Guzik wypukły manufaktura</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.846713,53.070925</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>266 - 1 Grosz 1839r </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814299,53.069636</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>267 - Guzik cywilny Arsenowy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814776,53.069121</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>268 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814798,53.069198</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>269 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815204,53.069327</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>270 - Guzik Arsenowy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.83606,53.07703</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>275 - Szeląg Toruński 1763</name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814353,53.068501</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>282 - 10 Groszy 1840r.</name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81442,53.06869</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>289 - Guzik cywilny </name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814971,53.069067</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>290 - Guzik cywilny </name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81428,53.06864</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>291 - Guzik cywilny </name>
+				<description>Sławomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813662,53.069095</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>292 - Okucie </name>
+				<description>Sławomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813922,53.068923</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>293 - Plomba </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.815011,53.068888</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>294 - Guzik cywilny </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814983,53.069187</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>297 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814368,53.068767</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>298 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814607,53.068467</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>299 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814485,53.068803</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>302 - Rong/Okucie</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814656,53.068923</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>303 - Okucie </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.81556,53.06907</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>305 - Okucie </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814584,53.068959</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>307 - Guzik </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814927,53.069069</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>309 - Trojak Fryderyk Wilhelm 1782r.</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.8136,53.06878</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>316 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813674,53.068875</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>317 - Guzik cywilny </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813432,53.068789</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>318 - Plomba </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813234,53.069187</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>321 - Pocisk Ołowiany XIXw </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813598,53.069217</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>327 - Zamknięcie do fajki</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814463,53.068615</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>329 - Plomba</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813634,53.069065</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>335 - Guzik</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814118,53.068281</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>340 - 1 Grosz 1793r. Prusy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.813625,53.068684</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>343 - Guzik arsenowy</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: 1750-XIX</description>
+				<styleUrl>#iconBrown</styleUrl>
+				<Point>
+					<coordinates>18.814645,53.068953</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>XX</name>
+			<Placemark>
+				<name>1 - Skrzydło orła </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.840831,53.074018</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3 - Guzik Niemiecki groszek</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.844631,53.073858</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5 - Element orzełka tarcza R z czapki </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84127,53.07412</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>10 - Hak mundurowy Pruski</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84214,53.07469</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>14 - Guzik Prusy</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84329,53.07473</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15 - Guzik wojskowy PRL, wzór 43</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84007,53.07388</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17 - 10 pfeningów 1876</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83577,53.07718</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18 - 1 pfening 1894</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83307,53.0767</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19 - Widelec</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83523,53.07787</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>21 - 1 pfennig pruski</name>
+				<description>Kowalski Sławomir  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.844406,53.073577</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>25 - 10 Pfeningów 1939r.</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.826751,53.07151</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>30 - 2 guziki Polskie wz 28</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83085,53.07162</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>33 - tarcza zegarka</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.8289,53.07117</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>35 - 5 groszy międzywojenne </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83753,53.0759</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>36 - Medaliki 2 szt srebrne</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.832925,53.077538</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>38 - Guzik</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83944,53.07331</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>42 - 1 Pfening 1901</name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.840281,53.072823</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>46 - Wpinka PTŻ Polskie Towarzystwo Żeglarskie </name>
+				<description>Katarzyna Chmielecka  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.839533,53.072803</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>47 - Moneta 1 pfening 1823</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.832402,53.076869</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>48 - Moneta 1 pfening 1891</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84017,53.072824</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>49 - Zakrętka do lampy naftowej </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84034,53.07258</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>55 - Guzik Polski Orzeł w Koronie </name>
+				<description>Mirosława Miętkiewcz &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.834672,53.077238</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>57 - Przypinka Tarnów</name>
+				<description>Mikołaj Walerych  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.836332,53.077623</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>66 - 5 pfeningów 1889</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83302,53.07806</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>67 - 1 pfening 1942</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83738,53.07796</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>69 - 2 pfeningi 1876</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.82626,53.07209</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>72 - Guzik pocztowy PRL</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83775,53.07772</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>76 - 1 pfening 1940</name>
+				<description>Kamil Krajewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84327,53.07851</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>77 - 10 pfeningów 1870</name>
+				<description>Kamil Krajewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.8393,53.078076</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>107 - 5 kopiejej 1878r.</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814563,53.068694</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>109 - Guzik</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813275,53.068872</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>120 - Guzik 20w.</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815305,53.06897</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>126 - Guzik Marynarki wojennej </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814515,53.068571</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>129 - Guzik Polski wz. 1928</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814717,53.068545</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>131 - Guzik</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814005,53.068387</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>134 - Nabijka nr XII </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813688,53.068481</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>153 - Guzik Polski Wojskowy Wz 1928</name>
+				<description>Karol Woliński  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813824,53.06896</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>162 - 50 Pfeningów 1921</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815566,53.06919</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>163 - Guzik Pruski wojskowy I WOJNA</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814356,53.068224</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>174 - Guzik Pruski wojskowi I wojna </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813528,53.068909</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>198 - PRUSKI guzik wojskowy I wojna </name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813461,53.069171</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>199 - Moneta ?</name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813321,53.069115</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>205 - Guzik?</name>
+				<description>Adam Baran  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815095,53.068738</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>209 - Odznaka Strażacka 1982</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813347,53.069419</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>210 - Guzik i Hak Pruski I wojna </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813383,53.069351</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>215 - Część zapalniczki XXw</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.83868,53.07315</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>218 - 1 Reichspfennig 1943</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.84014,53.07342</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>222 - 1 grosz, międzywojnie</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81404,53.06907</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>227 - Fragment pruskiej klamry</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81465,53.06967</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>229 - 1 Reichspfennig 1943</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81437,53.06961</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>234 - Psi numerek 1949</name>
+				<description>Krzysztof Muzalewski &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81478,53.06936</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>237 - Guzik płaski cywilny</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813331,53.069229</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>241 - Guzik Wermaht </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815107,53.069329</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>242 - 5 pfennig Adolf</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815298,53.06922</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>243 - 5 pfennig Adolf </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815169,53.069155</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>244 - 5 pfennig Adolf </name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815088,53.069233</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>245 - 2 pfennig Pruskie</name>
+				<description>Slawomir Kowalski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814985,53.069207</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>250 - 10 pfeningów XIXw</name>
+				<description>Dariusz Szynkarewicz  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.8137,53.069057</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>251 - 1 pfening 1907</name>
+				<description>Dariusz Szynkarewicz  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815348,53.069047</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>252 - 1 pfening  XIXw</name>
+				<description>Dariusz Szynkarewicz  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815362,53.069129</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>265 - 1 Pesa 1890 Niemcy Kolonia Afryka Wschodnia </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81486,53.06968</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>279 - Guzik Pruski XIXw</name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.815,53.069892</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>280 - 10 złotych Piłsudskiego FALSYFIKAT </name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814709,53.069129</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>283 - Plomba II R.P </name>
+				<description>Piotr Lipski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814336,53.068952</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>286 - Tarcza orzełka WZ19</name>
+				<description>Tomasz Sobieraj  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814571,53.069023</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>300 - Medalik </name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81458,53.06859</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>301 - Medalik Lokalny Chełmiński</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81412,53.06895</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>304 - 2 Pfeningi</name>
+				<description>Bartłomiej Kakiet  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814615,53.068918</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>311 - ½ Silber Grosza 1863r.</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.81358,53.06916</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>319 - Plomba </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813633,53.06913</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>320 - Odłamek Tarczy </name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.813799,53.069087</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>336 - Plomba</name>
+				<description>Maciej Wiśniewski  &lt;br/&gt;datowanie: XX</description>
+				<styleUrl>#iconGrey</styleUrl>
+				<Point>
+					<coordinates>18.814774,53.068702</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
