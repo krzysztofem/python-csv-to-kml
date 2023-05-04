@@ -58,4 +58,5 @@ Create new map:
 ![App Screenshot](https://github.com/krzysztofem/python-csv-to-kml/blob/main/screenshots/google-maps-1.png?raw=true)
 
 Import Your KML file end enjoy!
+
 ![App Screenshot](https://github.com/krzysztofem/python-csv-to-kml/blob/main/screenshots/google-maps-2.png?raw=true)
