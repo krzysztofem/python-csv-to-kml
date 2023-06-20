@@ -1,5 +1,8 @@
 _generated-maps
 _source-for-map
+bin
+GENERATED_MAPS
+pyvenv.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
